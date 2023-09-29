@@ -1,2 +1,2 @@
 Landing Page
-https://github.com/Pavi1235thara/CodeSoft-Landing-.git
+https://pavi1235thara.github.io/CodeSoft-Landing-/
